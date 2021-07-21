@@ -16,4 +16,6 @@ npm install bootstrap --save
  ng g s serive_name
  ng g guard guard_name
 npm install -g json-server
+for run json server     json-server --watch db.json 
+ng serve
 
